@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+.nav-link{
+  list-style-type: none;
+  color: #fff;
+  text-decoration: none;
+}
+.logo{
+  width: 45px;
+  height: 45px;
+  margin-left: 20px;
+  cursor: pointer;
+}
